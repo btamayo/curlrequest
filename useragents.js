@@ -1,3 +1,7 @@
+/**
+ * @module lib/curlrequest
+ */
+
 var userAgents = [
     'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/535.7 (KHTML, like Gecko) Chrome/16.0.905.0 Safari/535.7',
     'Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0)',

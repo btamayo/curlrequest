@@ -1,3 +1,8 @@
+/**
+ * @module lib/curlrequest
+ */
+
+
 var child = require('child_process');
 
 /**
